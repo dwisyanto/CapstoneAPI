@@ -4,4 +4,4 @@ pandas-datareader
 gunicorn
 requests
 numpy
-pg
+sqlite3==3.32.3
