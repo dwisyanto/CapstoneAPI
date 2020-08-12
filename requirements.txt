@@ -4,5 +4,4 @@ pandas-datareader
 gunicorn
 requests
 numpy
-matplotlib
 sqlite3
